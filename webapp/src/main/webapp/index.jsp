@@ -11,14 +11,10 @@
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
-<h1> Hello Welcome to Cloudakshay Devops Project </h1>
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-<h1> I hope You are doing well </h1>
-<h2> Please share and subscribe our Youtube channel </h2>
-
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
@@ -33,7 +29,8 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
+<h1> I hope You are doing well </h1>
+<h2> Please share and subscribe our Youtube channel </h2>
    <h1> Thankyou, Happy Learning </h1>
 
 
