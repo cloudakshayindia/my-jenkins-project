@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>This is our cloudakshay Registration page please fill</h1>
+    <p>Please create an account.</p>
     <hr>
 
     <label for="Name"><b>Enter Name</b></label>
@@ -29,7 +29,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-<h1> I hope You are doing well </h1>
+<h1> I hope You are doing well ! Cheers</h1>
 <h2> Please share and subscribe our Youtube channel </h2>
    <h1> Thankyou, Happy Learning </h1>
 
